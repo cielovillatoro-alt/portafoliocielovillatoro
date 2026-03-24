@@ -1,0 +1,177 @@
+body{
+	background-color: #f3f3f5;
+	font-family: Arial, sans-serif;
+	color: #333;
+}
+
+header{
+	padding: 15px 0;
+}
+.logo{
+	height: 90px;
+}
+
+.navbar{
+	padding: 0;
+}
+
+.brand-name{
+	font-size: 12px;
+	font-weight: 700;
+	color: #e56ae6 !important;
+	letter-spacing: 1px;
+}
+
+.nav-link{
+	color: #222 !important;
+	font-size: 14px;
+	margin-left: 20px;
+}
+
+.nav-link:hover{
+	color: #e56ae6 !important;
+}
+
+.hero{
+	padding: 70px 0;
+}
+
+.hero-tag{
+	color: #e56ae6;
+	font-size: 13px;
+	font-weight: 700;
+	margin-bottom: 20px;
+}
+
+.hero h1{
+	font-size: 58px;
+	font-weight: 700;
+	line-height: 1.1;
+	margin-bottom: 25px;
+	color: #2c2c2c;
+}
+
+.hero h1 span{
+	color: #e56ae6;
+}
+
+.hero-text{
+	font-size: 18px;
+	line-height: 1.8;
+	color: #6b6b6b;
+	max-width: 500px;
+	margin-bottom: 30px;
+}
+
+.btn-proyectos{
+	background-color: #e56ae6;
+	color: #fff;
+	border: 1px solid #e56ae6;
+	padding: 10px 22px;
+	font-size: 14px;
+	border-radius: 6px;
+	margin-right: 10px;
+}
+
+.btn-proyectos:hover{
+	background-color: #d85adb;
+	color: #fff;
+}
+
+.btn-linkedin{
+	background-color: transparent;
+	color: #333;
+	border: 1px solid #e56ae6;
+	padding: 10px 22px;
+	font-size: 14px;
+	border-radius: 6px;
+}
+
+.btn-linkedin:hover{
+	background-color: #e56ae6;
+	color: #fff;
+}
+
+
+.hero-img-box{
+	position: relative;
+	text-align: center;
+}
+
+
+.hero-img-box img{
+	position: relative;
+	max-height: 650px;
+}
+
+.about-home{
+	padding: 80px 0;
+}
+
+.about-home h2{
+	font-size: 60px;
+	margin-bottom: 20px;
+	color: #333;
+}
+
+.about-home p{
+	font-size: 18px;
+	line-height: 1.8;
+	color: #333;
+	max-width: 650px;
+	margin: 0 auto 30px;
+}
+
+.btn-about{
+	background-color: #e56ae6;
+	color: #fff;
+	padding: 10px 22px;
+	border-radius: 8px;
+	text-decoration: none;
+	display: inline-block;
+	margin-bottom: 40px;
+}
+
+.about-img-box{
+	margin-top: 20px;
+}
+
+.about-img{
+	max-width: 280px;
+}
+
+.footer{
+	color: #e56ae6;
+	padding: 40px 0;
+	margin-top: 60px;
+}
+
+.footer h4{
+	margin-bottom: 10px;
+}
+
+.footer p{
+	color: #bbb;
+	font-size: 14px;
+}
+
+
+.social-icons a{
+	color: #e56ae6;
+	font-size: 20px;
+	margin-left: 15px;
+	text-decoration: none;
+	margin-right: 30px;
+	
+}
+
+.social-icons a:hover{
+	color: #fff;
+}
+
+.copy{
+	font-size: 13px;
+	margin-top: 10px;
+	color: #888;
+}
+
